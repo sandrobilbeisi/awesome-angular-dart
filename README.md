@@ -18,11 +18,12 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
   
 ## Community
 
-* [Dartlang SubReddit](https://www.reddit.com/r/angulardart/)
 * [Gitter Chat Channel](https://gitter.im/dart-lang/angular)
+* [Stack Overflow](https://stackoverflow.com/questions/tagged/dart+angular-dart)
 * [Google Group](https://groups.google.com/a/dartlang.org/forum/#!forum/web)
 * ~~[Google Group](https://groups.google.com/forum/#!forum/angular-dart)~~
-* [Stack Overflow](https://stackoverflow.com/questions/tagged/dart+angular-dart)
+* ~~[Dartlang SubReddit](https://www.reddit.com/r/angulardart/)~~
+
 
 ## Everything Else
 
