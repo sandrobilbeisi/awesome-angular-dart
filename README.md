@@ -11,7 +11,18 @@ Hopefully, items on the list are actively maintained, well documented, and popul
 
 Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all [contributors](https://github.com/yissachar/awesome-angular-dart/graphs/contributors); you rock!
 
+## Tutorials
 
+* [Hello Dart](http://code.makery.ch/library/hello-dart/) - A playful introduction to Dart.
+* [Darrrt](https://www.dartlang.org/codelabs/darrrt/) - Web app code lab.
+
+## Community
+
+* [Dartlang SubReddit](https://www.reddit.com/r/angulardart/)
+* [Gitter Chat Channel](https://gitter.im/dart-lang/angular)
+* [Google Group](https://groups.google.com/a/dartlang.org/forum/#!forum/web)
+* [Google Group](https://groups.google.com/forum/#!forum/angular-dart)
+* [Stack Overflow](https://stackoverflow.com/questions/tagged/dart+angular-dart)
 
 ## Everything Else
 
