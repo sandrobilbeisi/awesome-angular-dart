@@ -15,7 +15,10 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [CodeLabs](https://webdev.dartlang.org/codelabs) - Web app code lab.
   * [Write a Material Design AngularDart Web App](https://codelabs.developers.google.com/codelabs/your-first-angulardart-web-app/)
-  
+  * [Build an AngularDart & Firebase Web App](https://codelabs.developers.google.com/codelabs/angulardart-firebase-web-app/)
+  * [AngularDart Components](https://webdev.dartlang.org/codelabs/angular_components/)
+
+
 ## Community
 
 * [Gitter Chat Channel](https://gitter.im/dart-lang/angular)
