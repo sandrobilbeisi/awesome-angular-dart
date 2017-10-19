@@ -5,7 +5,7 @@ Awesome Angular Dart [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d73
 ***EARLY WORK IN PROGRESS - NOT READY FOR PUBLIC CONSUMPTION***
 
 A curated list of awesome Angular Dart resources and components.
-Hopefully, items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) lists. Many thanks to @yissachar for his [Awesome-Dart] (https://github.com/yissachar/awesome-dart)
+Hopefully, items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) lists. Many thanks to [@yissachar](https://github.com/yissachar) for his [Awesome-Dart] (https://github.com/yissachar/awesome-dart)
 
 ### Contributing
 
