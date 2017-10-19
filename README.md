@@ -12,7 +12,7 @@ Hopefully, items on the list are actively maintained, well documented, and popul
 Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all [contributors](https://github.com/yissachar/awesome-angular-dart/graphs/contributors); you rock!
 
 ## Tutorials
-
+* [Tour of Heroes](https://webdev.dartlang.org/angular/tutorial/)
 * [CodeLabs](https://webdev.dartlang.org/codelabs) - Web app code lab.
   * [Write a Material Design AngularDart Web App](https://codelabs.developers.google.com/codelabs/your-first-angulardart-web-app/)
   * [Build an AngularDart & Firebase Web App](https://codelabs.developers.google.com/codelabs/angulardart-firebase-web-app/)
