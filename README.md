@@ -13,9 +13,9 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Tutorials
 
-* [Hello Dart](http://code.makery.ch/library/hello-dart/) - A playful introduction to Dart.
-* [Darrrt](https://www.dartlang.org/codelabs/darrrt/) - Web app code lab.
-
+* [CodeLabs](https://webdev.dartlang.org/codelabs) - Web app code lab.
+  * [Write a Material Design AngularDart Web App](https://codelabs.developers.google.com/codelabs/your-first-angulardart-web-app/)
+  
 ## Community
 
 * [Dartlang SubReddit](https://www.reddit.com/r/angulardart/)
