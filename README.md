@@ -21,7 +21,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Dartlang SubReddit](https://www.reddit.com/r/angulardart/)
 * [Gitter Chat Channel](https://gitter.im/dart-lang/angular)
 * [Google Group](https://groups.google.com/a/dartlang.org/forum/#!forum/web)
-* [Google Group](https://groups.google.com/forum/#!forum/angular-dart)
+* ~~[Google Group](https://groups.google.com/forum/#!forum/angular-dart)~~
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/dart+angular-dart)
 
 ## Everything Else
